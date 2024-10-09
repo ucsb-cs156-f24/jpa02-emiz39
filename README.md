@@ -22,7 +22,6 @@ This is a minimal "Hello World" type webapp built with Spring Boot.
 | `java -cp target/hello-1.0.0.jar edu.ucsb.cs156.spring.hello.Application` | If done after `mvn package`, runs the code to startup a web server.  |
 | `java -jar target/hello-1.0.0.jar | If done after `mvn package`, this is another way to start up the web server.|
 
-
 # Sources
 
 The code in this repo is in support of
